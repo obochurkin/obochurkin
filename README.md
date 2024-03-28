@@ -1,4 +1,5 @@
 ### Hello there 👋
+![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZkMHczejU5dWoyMmQzbDZ6ZzBhNW82a3hpM3AzOTkzbDliMXJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy-downsized.gif)
 
 I'm Oleksii Bochurkin a software engineer mainly focused on BE :computer:. 
 
