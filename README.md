@@ -17,7 +17,7 @@ I'm Oleksii Bochurkin a software engineer mainly focused on BE :computer:.
 - :cat: some pet projects uses:
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=white" />
-  <img alt= "Fiber" src="https://img.shields.io/badge/-Fiber-007ACC?style=flat-square&logo=Fiber&logoColor=white">
+  <img alt= "Fiber" src="https://img.shields.io/badge/-Fiber-007ACC?style=flat-square&logo=fiber&logoColor=white">
   <img alt="Gin" src="https://img.shields.io/badge/-Gin-007ACC?style=flat-square&logo=Gin&logoColor=white" />
   <img alt="ScyllaDB" src="https://img.shields.io/badge/-ScyllaDB-46a2f1?style=flat-square&logo=scylladb&logoColor=white" />
 <p/>
